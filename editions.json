@@ -1,0 +1,92 @@
+[
+  {
+    "reference":"2025-iberia",
+    "event":"techforum",
+    "name":"TechForum eXplore Iberia 2025",
+    "description":"TechForum eXplore Iberia welcomes all individuals eager to participate and share their knowledge and skills",
+    "start":"2025-05-23T06:00:00Z",
+    "end":"2025-05-23T16:00:00Z",
+    "country":"ES",
+    "location":"Madrid",
+    "language":"en",
+    "organizers":[
+      {
+        "uid":"A703280",
+        "name":"Hyaifranny Ippolito",
+        "email":"hyai.ippolito@worldline.com",
+        "biography":"",
+        "admin":false
+      }
+    ],
+    "meta":"",
+    "createdBy":"A526177",
+    "cfpStart":"2025-03-12T05:00:00Z",
+    "cfpEnd":"2025-04-12T21:59:00Z"
+  },
+  {
+    "reference":"2025-france",
+    "event":"techforum",
+    "name":"TechForum eXplore France 2025",
+    "description":"The annual TeX France provides an open forum for sharing knowledge, fostering ideas, and connecting with fellow technology enthusiasts in a relaxed and inspiring atmosphere.",
+    "start":"2025-06-18T06:00:00Z",
+    "end":"2025-06-19T16:00:00Z",
+    "country":"FR",
+    "location":"Seclin, LP3",
+    "language":"en",
+    "organizers":[
+      {
+        "uid":"de43bb01-2b5d-4e9f-850b-5374d35fa0ab",
+        "name":" Amandine Fourdrignier",
+        "email":"amandine.fourdrignier@worldline.com",
+        "biography":"",
+        "admin":false
+      },
+      {
+        "uid":"A208238",
+        "name":"Cecile Robet",
+        "email":"cecile.robet@worldline.com",
+        "biography":"",
+        "admin":true
+      },
+      {
+        "uid":"A187839",
+        "name":"Ibrahim Gharbi",
+        "email":"ibrahim.gharbi@worldline.com",
+        "biography":"Mobile software expert at Techsquad core team",
+        "admin":true
+      },
+      {
+        "uid":"A182555",
+        "name":"Jean-Baptiste Drucker",
+        "email":"jean-baptiste.drucker@worldline.com",
+        "biography":"R&D Engineer @ WL Labs\nDemo facilitator @ Techforum Explore\nMeat popsicle\n\n#r&d #innovation #labs #front #ux ",
+        "admin":false
+      },
+      {
+        "uid":"S239922",
+        "name":"Raphael Semeteys",
+        "email":"raphael.semeteys@worldline.com",
+        "biography":"Head of TechSquad, Software Architect, Open Source expert, and also certified Yoga teacher.",
+        "admin":true
+      },
+      {
+        "uid":"A526177",
+        "name":"Sylvain Pollet-Villard",
+        "email":"sylvain.polletvillard@worldline.com",
+        "biography":"Web front-end dev expert - Developer Advocate at GRS in TechSquad Core Team - TeX Network admin - Cheese lover",
+        "admin":true
+      },
+      {
+        "uid":"A527524",
+        "name":"Yassine Benabbas",
+        "email":"yassine.benabbas@worldline.com",
+        "biography":"Yassine is a teacher, trainer and member of the TechSquad where he is the leader of the mobile, web and UX domain.\nHe has a PhD in computer science\nTwitter @yostane.",
+        "admin":true
+      }
+    ],
+    "meta":"",
+    "createdBy":"A526177",
+    "cfpStart":"2025-03-28T07:00:00Z",
+    "cfpEnd":"2025-04-22T21:59:00Z"
+  }
+]

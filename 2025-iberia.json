@@ -1,0 +1,142 @@
+{
+  "page":0,
+  "pageSize":100,
+  "pageCount":1,
+  "totalCount":42,
+  "elements":[
+    {
+      "reference":"d7cb9a67-8562-4f7a-87e3-c1f14cc6b4ac",
+      "edition":"2025-iberia",
+      "event":"techforum",
+      "title":"Welcome coffee Iberia",
+      "description":"",
+      "date":"2025-05-23T06:15:00Z",
+      "duration":45,
+      "meta":"{}",
+      "tags":[
+
+      ],
+      "speakers":[
+
+      ],
+      "rooms":[
+
+      ],
+      "createdBy":"A527524"
+    },
+    {
+      "reference":"6437a87c-573f-4c8d-a025-9e990ad7d601",
+      "edition":"2025-iberia",
+      "event":"techforum",
+      "title":"Opening words by TechForum founders",
+      "description":"",
+      "date":"2025-05-23T07:00:00Z",
+      "duration":15,
+      "meta":"{\"planning_notes\":\"Prepare people in a queue for teaser \\n\\nShow the room 1 stream on the screens of room 2\"}",
+      "tags":[
+
+      ],
+      "speakers":[
+        {
+          "uid":"FR20197",
+          "name":"Denis Faivre",
+          "email":"denis.faivre@worldline.com",
+          "biography":"Head of Global Innovation Management",
+          "admin":false
+        },
+        {
+          "uid":"FR19856",
+          "name":"Francois Hochedé",
+          "email":"francois.hochede@worldline.com",
+          "biography":"Head of GRS",
+          "admin":false
+        }
+      ],
+      "rooms":[
+
+      ],
+      "createdBy":"A527524"
+    },
+    {
+      "reference":"26fb115c-3928-4583-bc55-d6d5ad72794f",
+      "edition":"2025-iberia",
+      "event":"techforum",
+      "title":"Opening keynote by Gilles Grapinet",
+      "description":"",
+      "date":"2025-05-23T07:15:00Z",
+      "duration":30,
+      "meta":"{}",
+      "tags":[
+
+      ],
+      "speakers":[
+        {
+          "uid":"A173676",
+          "name":"Gilles Grapinet",
+          "email":" gilles.grapinet@worldline.com",
+          "biography":"Chief Executive Officer at Worldline",
+          "admin":false
+        }
+      ],
+      "rooms":[
+
+      ],
+      "createdBy":"A527524"
+    },
+    {
+      "reference":"b657d257-16e9-4dd1-b286-9762c02fbaae",
+      "edition":"2025-iberia",
+      "event":"techforum",
+      "title":"Teasing session Day 1",
+      "description":"",
+      "date":"2025-05-23T07:45:00Z",
+      "duration":15,
+      "meta":"{}",
+      "tags":[
+
+      ],
+      "speakers":[
+
+      ],
+      "rooms":[
+
+      ],
+      "createdBy":"A527524"
+    },
+    {
+      "reference":"96d5343c-99dd-472f-9ec3-0176c1a92036",
+      "edition":"2025-france",
+      "event":"techforum",
+      "title":"How to spot theater - A self-defense guide against buzzword bingo",
+      "description":"Within Worldline, we want to fundamentally change how we work. As employees, we hear a lot of concepts and approaches being mentioned: Agile, Scrum, DevOps, OKRs, Value Streams, Empowered Product Teams...\n\nExperienced change agents know the risk of just using new labels for the same old ways - in other words, transformation theater. How can you tell the difference between \"the real deal\" and buzzword bingo, even if you are not an expert on the topic? And what can you do to improve the situation?\n\nThat is the goal of this talk. It will tackle:\n- What to watch out for (testing for the symptoms)\n- Getting to the sources (becoming knowledgeable)\n- Options for the next step towards (positively influencing the environment)\n\nWork life is too short to be wasted. Let's make it count!",
+      "date":"2025-05-23T08:10:00Z",
+      "duration":40,
+      "meta":"{}",
+      "tags":[
+        "agile",
+        "buzzword",
+        "change",
+        "devops",
+        "okr",
+        "scrum",
+        "theater",
+        "theatre",
+        "transformation",
+        "value streams"
+      ],
+      "speakers":[
+        {
+          "uid":"W104250",
+          "name":"Gunnar FISCHER",
+          "email":"gunnar.fischer@worldline.com",
+          "biography":"Agile Coach / Scrum Master / Leader of the Chocolate Guild -\n\nMy purpose is to teach and to learn, to grow as a person and to support others who want the same.\n\nI have a software development background with a strong interest in people, intercultural contacts and the bigger picture.\n\nI can answer fluently in English, German and Esperanto — you can also contact me in Dutch and Italian. Currently learning Spanish, happy to have a spoken chat!",
+          "admin":false
+        }
+      ],
+      "rooms":[
+
+      ],
+      "createdBy":"A527524"
+    }
+  ]
+}
